@@ -2,6 +2,8 @@
 ---
 
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/onsokumaru/daemon_prototyping?logo=github&logoColor=white)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/onsokumaru/daemon_prototyping/cmake-single-platform.yml)
+
 
 
 ## How to build the programs 
