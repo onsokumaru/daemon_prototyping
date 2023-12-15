@@ -1,6 +1,9 @@
 # README
 ---
 
+![GitHub tag (with filter)](https://img.shields.io/github/v/tag/onsokumaru/daemon_prototyping?logo=github&logoColor=white)
+
+
 ## How to build the programs 
 
 - create a directory called *build*
