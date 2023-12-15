@@ -5,28 +5,28 @@
 
 - create a directory called *build*
 
-    mkdir build
+        mkdir build
 
 - call CMake to build the programs in the *build* directory
 
-    cmake --build build
+        cmake --build build
 
 
 ## How to run the programs
 
 - from the root directory use:
 
-    ./build/<program to run>
+        ./build/<program to run>
 
   example:
 
-    ./build/create_pidfile
+        ./build/create_pidfile
 
 
 - from the *build* directory use:
 
-    ./<program to run>
+        ./<program to run>
 
   example:
 
-    ./create_pidfile
+        ./create_pidfile
